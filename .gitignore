@@ -3,3 +3,5 @@
 ### Ansible template
 *.retry
 /provisioning/hosts.yml
+/docker/secrets/db_password
+/docker/secrets/postgres_password
